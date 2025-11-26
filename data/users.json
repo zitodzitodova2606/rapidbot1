@@ -1,7 +1,7 @@
 {
   "5606069749": {
     "name": "zxdasd asd aasd as",
-    "phone": "+998336265533",
+    "phone": "998336265533",
     "pending_screenshot": "C:\\Users\\Администратор\\Desktop\\RapidBot\\data\\screenshots\\5606069749_1764160508.jpg",
     "payment_made": true,
     "approved": true
@@ -33,5 +33,12 @@
     "payment_made": true,
     "approved": true,
     "created_at": 1764160670
+  },
+  "658428874": {
+    "phone": null,
+    "pending_screenshot": null,
+    "payment_made": false,
+    "approved": false,
+    "created_at": 1764169514
   }
 }

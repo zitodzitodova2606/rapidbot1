@@ -98,7 +98,7 @@ PAY_TEXT = (
     "💳 To‘lov qilish:\n\n"
     "Gold tarif narxi: 1,099,000 emas Chegirmada 599,999 so‘m\n"
     "Premium tarif narxi: 2,999,000 emas Supper Chegirmada 749,999 so‘m\n"
-    "To‘lov uchun: 8600 4929 0589 5476\n\n"
+    "To‘lov uchun: 9860 1266 3231 1679\n\n"
     "To‘lov qilgandan so‘ng, iltimos, screenshotni botga yuboring. Siz avtomatik kanalga qo'shilasiz."
 )
 
