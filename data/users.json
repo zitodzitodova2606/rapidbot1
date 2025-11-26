@@ -1,0 +1,37 @@
+{
+  "5606069749": {
+    "name": "zxdasd asd aasd as",
+    "phone": "+998336265533",
+    "pending_screenshot": "C:\\Users\\Администратор\\Desktop\\RapidBot\\data\\screenshots\\5606069749_1764160508.jpg",
+    "payment_made": true,
+    "approved": true
+  },
+  "5564746814": {
+    "phone": "998993955533",
+    "pending_screenshot": null,
+    "payment_made": false,
+    "approved": false,
+    "created_at": 1762789051
+  },
+  "1912820253": {
+    "phone": "998938547732",
+    "pending_screenshot": "C:\\Users\\Администратор\\Desktop\\RapidBot\\data\\screenshots\\1912820253_1764160770.jpg",
+    "payment_made": true,
+    "approved": true,
+    "created_at": 1762789052
+  },
+  "1263764227": {
+    "phone": "998938054707",
+    "pending_screenshot": "C:\\Users\\Администратор\\Desktop\\RapidBot\\data\\screenshots\\1263764227_1764160765.jpg",
+    "payment_made": true,
+    "approved": true,
+    "created_at": 1764160661
+  },
+  "963950851": {
+    "phone": "998998289531",
+    "pending_screenshot": "C:\\Users\\Администратор\\Desktop\\RapidBot\\data\\screenshots\\963950851_1764160718.jpg",
+    "payment_made": true,
+    "approved": true,
+    "created_at": 1764160670
+  }
+}
